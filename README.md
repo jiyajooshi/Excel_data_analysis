@@ -1,9 +1,9 @@
-  Excel Sales Data Analysis Dashboard
+  **Excel Sales Data Analysis Dashboard**
 
-**Project Overview
+Project Overview
 This project analyzes sales data using Microsoft Excel to identify business trends, track KPIs, and generate actionable insights through interactive dashboards and reports.
 
-**Tools & Skills Used
+**Tools & Skills Used**
 - Microsoft Excel
 - Pivot Tables
 - SUMIFS / COUNTIFS
@@ -12,20 +12,20 @@ This project analyzes sales data using Microsoft Excel to identify business tren
 - Dashboard Design
 - KPI Reporting
 
-**Key Insights
+**Key Insights**
 - Identified top-performing product categories
 - Analyzed monthly sales trends
 - Compared regional sales performance
 - Tracked KPI growth and business performance metrics
 
-**Features
+**Features**
 - Interactive dashboard
 - KPI tracking
 - Dynamic Pivot Table reporting
 - Data validation and cleaning
 - Trend analysis
 
-**Files Included
+**Files Included**
 - Excel dashboard workbook
 - Raw dataset
 - Dashboard screenshots
